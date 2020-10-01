@@ -1,0 +1,6 @@
+print("Enter b :")
+b=input()
+print("Enter c :")
+c=input()
+a=int(b)%int(c)
+print(a)
